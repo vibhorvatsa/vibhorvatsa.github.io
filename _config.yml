@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anmol Vatsa"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anmol Vatsa"
 description              : &description "personal description"
 url                      : https://vibhorvatsa.github.io # the base hostname & protocol for your site e.g. "https://vibhorvatsa.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
