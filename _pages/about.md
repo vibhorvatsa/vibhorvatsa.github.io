@@ -3,9 +3,15 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-This is about me.
+Computer Networks and Systems Scientist with experience in FinTech industry.
 
+I am passionate about creating lean, readable and bug-free software. Over the years I've realized the importance of clean, concise and correct logging practices while debugging everyday bugs in production code; and yes, regardless of how good the CT/CI pipeline is in terms of quality testing, production bugs do happen. I also like automating tedious, manual, often one-off tasks with shell or python scripts as much for my own satisfaction as for their re-usability, test-ability and accuracy.
+
+I am a fast-learner and like a good mix of new challenges and old familiar to keep things interesting and sane. I can get tunnel-visioned at times, but I count that my strength as much my as weakness since it gives me unparalleled focus on the task at hand.
+My education, skills, experience and accomplishments are detailed [here](/cv).
+
+In my spare time I enjoy reading fiction; or hiking, trekking and camping when an urge for adventure takes hold of me. I love all things Tolkien and an occasional game of chess. I categorically dislike instant messaging (unless I need something or someone urgently which happens fairly often), social media (unless I need to find someone) and spam mail (because they hike up my unread mail count).  
