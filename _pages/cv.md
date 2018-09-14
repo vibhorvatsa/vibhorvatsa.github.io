@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,8 +24,8 @@ Skills
 
 Work experience
 ======
-* Jan 2017 - Dec 2018: *Graduate Research Assistant*
-  * **University of Utah**
+* **University of Utah**
+  * Jan 2017 - Dec 2018: *Graduate Research Assistant*
   * Projects:
     * [Multi-Cloud capability network](https://gitlab.flux.utah.edu/tcloud/capnet/tree/dist-capnet) (MCCN): A distributed cloud framework where security within each cloud is enforced using Object capabilities in the SDN control plane administered by a logically centralized controller.
   * Languages and Technologies:
@@ -33,8 +33,8 @@ Work experience
       * OpenMUL, OpenFlow, OpenStack, Protobuf, [Capnet](https://gitlab.flux.utah.edu/tcloud/capnet)
   * Supervisor: Jacobus (Kobus) Van Der Merwe
 
-* June 2013 - July 2016: *Software Engineer 2*
-  * **PayPal**
+* **PayPal**
+  * June 2013 - July 2016: *Software Engineer 2*
   * Projects:
     * Integrated BrainTree with PayPal, serving BrainTree API’s with Paypal Settlement engine.
     * Re-design the core Settlement engine to be more flexible, scalable and extensible on a SaaS principle.
@@ -44,8 +44,8 @@ Work experience
       * Java, C++, Python, Bash
       * Java Spring, Maven
 
-* Dec 2012 - June 2013: *Software Intern*
-  * **Honeywell Aerospace**
+* **Honeywell Aerospace**
+  * Dec 2012 - June 2013: *Software Intern*
   * Projects:
     * Integrate Primary Flight Display (PFD) Simulator with DC 550 Controller for Flight Cockpit display.
     * Provide solution for issues in PFD simulator and DC 550 Controller simulator.
@@ -53,8 +53,8 @@ Work experience
       * C#. NET, VB.NET
       * Microsoft Sharepoint
 
-* May 2012 - July 2012: *Software Intern*
-  * **IBM, Linux Technology Center**
+* **IBM, Linux Technology Center**
+  * May 2012 - July 2012: *Software Intern*
   * Projects:
     * Create an OpenStack Scheduler that puts idle servers in the data center in Suspend-to-RAM low power state to conserve energy, and brings them up on-demand.
   * Languages and Technologies:
