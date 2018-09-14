@@ -11,49 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.S. in Computer Science**, SASTRA University, Tamil Nadu, India, 2013
+* **M.S. in Computer Science**, University of Utah, Utah, 2018 *(expected)*
+
+Skills
+======
+* **Programming Languages**:
+  * Proficient in: 	Java, C/C++, Python
+  * Familiar with:	Go,​ ​ C#,​ ​ VB.NET,​ ​ Javascript,​ ​ Node.JS,​ ​ Bash
+* **Frameworks**:	Python Flask, Java Spring, Maven, OpenStack, OpenMUL, OpenMPI, OpenMP, Google Protobuf
+* **Databases**:	SQL, MongoDB
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2017 - Dec 2018: *Graduate Research Assistant*
+  * **University of Utah**
+  * Projects:
+    * [Multi-Cloud capability network](https://gitlab.flux.utah.edu/tcloud/capnet/tree/dist-capnet) (MCCN): A distributed cloud framework where security within each cloud is enforced using Object capabilities in the SDN control plane administered by a logically centralized controller.
+  * Languages and Technologies:
+      * C, Python
+      * OpenMUL, OpenFlow, OpenStack, Protobuf, [Capnet](https://gitlab.flux.utah.edu/tcloud/capnet)
+  * Supervisor: Jacobus (Kobus) Van Der Merwe
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2013 - July 2016: *Software Engineer 2*
+  * **PayPal**
+  * Projects:
+    * Integrated BrainTree with PayPal, serving BrainTree API’s with Paypal Settlement engine.
+    * Re-design the core Settlement engine to be more flexible, scalable and extensible on a SaaS principle.
+    * Scale the Paypal Direct Debit Product to 15 new SEPA countries.
+    * Upgrade the Settlement information exchange system with Bank of America and Deutsche Bank to [ISO20022](https://www.iso20022.org/) industry standard.
+  * Languages and Technologies Used:
+      * Java, C++, Python, Bash
+      * Java Spring, Maven
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Dec 2012 - June 2013: *Software Intern*
+  * **Honeywell Aerospace**
+  * Projects:
+    * Integrate Primary Flight Display (PFD) Simulator with DC 550 Controller for Flight Cockpit display.
+    * Provide solution for issues in PFD simulator and DC 550 Controller simulator.
+  * Languages and Technologies:
+      * C#. NET, VB.NET
+      * Microsoft Sharepoint
+
+* May 2012 - July 2012: *Software Intern*
+  * **IBM, Linux Technology Center**
+  * Projects:
+    * Create an OpenStack Scheduler that puts idle servers in the data center in Suspend-to-RAM low power state to conserve energy, and brings them up on-demand.
+  * Languages and Technologies:
+      * Python
+      * OpenStack
+
+
+  Academic Projects
+  ======
+  * Implement a network device driver for XV6 operating system for a Intel Gigabit Ethernet(e1000) device.
+    * *Languages and Technologies*: C, Qemu, Network stack, XV6 Operating system
+  * Building a browser plugin that detects the use of cloaking by the website.
+    * *Languages and Technologies*: Javascript, Python, REST
+  * [A capability-based implementation](https://gitlab.flux.utah.edu/tcloud/networking-capnet/tree/secgroup) of the OpenStack Neutron Security Groups API.
+    * *Languages and Technologies*: Capnet, OpenStack Neutron, Capabilities, OpenFlow, SDN, OpenMUL, REST
+  * An implementation of the Raft Consensus Algorithm.
+    * *Languages and Technologies*: Raft, Go
+  * Evaluate the performance increase of a HwLOC based implementation of OpenMPI Broadcast primitive.
+    * *Languages and Technologies*: OpenMPI, OpenMP, HwLOC
+  * A visual animated representation of 2-Phase commit protocol on runway.systems.
+    * *Languages and Technologies*: D3.js, javascript
+  * A logic circuit simulator and monitoring tool for Indira Gandhi Centre for Atomic Research.
+    * *Languages and Technologies*: Java, Java Swing
