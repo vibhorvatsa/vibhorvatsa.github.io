@@ -64,6 +64,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% if author.gitlab_flux %}
+        <li><a href="https://gitlab.flux.utah.edu/{{ author.gitlab_flux }}"><i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab@Flux research Group</a></li>
+      {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}

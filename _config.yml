@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Anmol Vatsa"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Networks and Systems Scientist with experience in FinTech industry. Passionate about creating better, readable and debugging-friendly production code. Enjoys reading, hiking, trekking, backpacking, all things Tolkien and an occasional game of chess."
   location         : "Salt Lake City, UT, USA"
   employer         :
   googlescholar    :
-  email            :
+  email            : "vibhor.vatsa@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,6 +94,7 @@ author:
   facebook         : "anmol.vatsa.3"
   foursquare       :
   github           : "vibhorvatsa"
+  gitlab_flux      : "u1082186"
   google_plus      :
   keybase          :
   instagram        :
