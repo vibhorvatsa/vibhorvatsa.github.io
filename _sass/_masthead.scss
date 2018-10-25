@@ -34,6 +34,7 @@
 .masthead__menu {
 
   ul {
+    @include container(12);
     margin: 0;
     padding: 0;
     clear: both;
@@ -47,7 +48,7 @@
   white-space: nowrap;
 
   &--lg {
-    @include span(2 of 5);
+    @include span(2 of 12);
     font-size: 2.2vw;
     font-weight: 700;
   }
