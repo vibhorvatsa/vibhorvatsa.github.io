@@ -117,7 +117,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: 2vw;
 }
 
 .author__bio {
@@ -216,7 +216,7 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: inherit;
   }
 
   a {
